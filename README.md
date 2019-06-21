@@ -25,8 +25,6 @@ It's the Convolutional Neural Network(CNN) project in the Deep Learning Nanodegr
 
 ### Contents
 
-It's the contents of Korean Version file. The English one has similar contents:
-
 - Intro
 - Step 0: Import Datasets
 - Step 1: Detect Humans
